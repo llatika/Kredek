@@ -1,0 +1,4 @@
+Gra Lawenda
+
+Zasady gry:
+W grze mamy do wyboru kupno 4 komponentow: pracownika, nasion, lawendy i magicznego plynu. W kazdej sekundzie dostajemy do spizarki 1 nasiono, przy czy mozemy zmniejszyc interwal timera do 250 ms , co oczywiscie da nam 4 razy wiecej nasionek na sekunde. Nasionkami kupujemy lawende, lawenda kupujemy Magiczny plyn.Nie mozemy kupic za gotowke magicznego plynu.Za gotowke mozemy kupic lawende i pracownika. Pracownika mozemy i sprzedac i kupic.Kazdy komponent ma swoja wartosc rynkowa: lawenda:15,nasiono:3,kupno pracownika:75,sprzedaz pracownika:45,magiczny plyn:180. Dodatkowo losowo w nocy moze przyjsc zlodziej i wykrac nam magiczny plyn , pracownik moze sie zwolnic lub moga splonac wszytskie nasiona. Najczarniejszym scenariuszem jest sytuacja kiedy nie mamy zadnej lawendy na skladzie a nasiona wlasnie sie spalily...Im predzej kupisz lawende tym lepiej!Wygrana zalezna od tego czy zgromadziles wsyztskie rarytasy.Do dziela!
